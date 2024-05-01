@@ -1,0 +1,76 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px;
+}
+
+#about {
+    background-color: #ecdfdfe9;
+}
+#approach{
+    background-color: #e79999f2;
+}
+
+#services {
+    background-color: #c7a4a4;
+}
+
+#contact {
+    background-color: #89c7d8;
+}
+#whatwedo {
+    background-color: #98f1d9;
+
+}
+#Impact{
+    background-color: #dbeac7;
+}
+#getinvolved{
+    background-color: #e2ddbe;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+footer img {
+    width: 30px; /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Optional: Add some spacing */
+}
+
+footer p {
+    margin: 0;
+}
